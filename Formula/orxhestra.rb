@@ -3,8 +3,8 @@ class Orxhestra < Formula
 
   desc "Build LLM agents with any LangChain provider — YAML-first orchestration framework"
   homepage "https://github.com/NicolaiLassen/orxhestra"
-  url "https://files.pythonhosted.org/packages/source/o/orxhestra/orxhestra-0.0.40.tar.gz"
-  sha256 "6d85b975e0c8f97579e224331e808b3dd9b1d484e18ebf3149fb9657f65a5b38"
+  url "https://files.pythonhosted.org/packages/source/o/orxhestra/orxhestra-0.0.42.tar.gz"
+  sha256 "85e603fc1c53bbc7c5543d9a0a92353447393c2bea63877e1fc731db868c958b"
   license "Apache-2.0"
 
   depends_on "python@3.13"
