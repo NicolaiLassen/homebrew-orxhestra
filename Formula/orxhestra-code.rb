@@ -3,8 +3,8 @@ class OrxhestraCode < Formula
 
   desc "AI coding agent for your terminal — powered by orxhestra"
   homepage "https://github.com/NicolaiLassen/orxhestra-code"
-  url "https://files.pythonhosted.org/packages/source/o/orxhestra-code/orxhestra_code-0.0.52.tar.gz"
-  sha256 "fb160d2d3337671a0fcf14202291646f1329b9d948c2069069c06037243e8073"
+  url "https://files.pythonhosted.org/packages/source/o/orxhestra-code/orxhestra_code-0.0.53.tar.gz"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license "Apache-2.0"
 
   depends_on "python@3.13"
